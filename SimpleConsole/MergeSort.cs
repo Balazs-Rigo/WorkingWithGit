@@ -44,6 +44,8 @@ namespace DataStructuresMoshPart3
 
             while (j < right.Length)
                 result[k++] = right[j++];
+
+            Console.WriteLine();
         }
     }
 }
